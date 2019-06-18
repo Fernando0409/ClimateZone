@@ -12,3 +12,9 @@ De igual forma los modelos de los sensores son los siguientes:
 Nota: 
 Para el correcto funcionamiento del servicio se recomienda el uso de Python 3* y la version de Arduino 1.8* 
 asi como las librerias Adafruit_Unified_Sensor_Library y DHT_sensor_library en sus versiones 1.0* y 1.3* respectivamente, estas librerias las pueden encontrar actualizadas en github en su repositorio correspondiente.
+
+De igual forma para el correcto funcionamiento del sistema se recomiendan las siguientes librerias de python:
+* PySerial
+* Mysql connector
+* Time y datetime
+* Decimal
